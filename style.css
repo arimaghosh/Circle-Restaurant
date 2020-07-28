@@ -255,4 +255,12 @@ footer i:hover
     height:150px;
     width:100%;
     }
+    .carousel-caption
+    {
+    top: 50%;
+    transform: translateY(-60%);
+    bottom: initial;
+    font-family: 'Raleway', sans-serif;
+    z-index:1;
+    }
   }
